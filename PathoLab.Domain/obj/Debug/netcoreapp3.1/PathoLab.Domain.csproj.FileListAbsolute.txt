@@ -1,0 +1,51 @@
+D:\Projects\lab\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.deps.json
+D:\Projects\lab\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\lab\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfoInputs.cache
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfo.cs
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.deps.json
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.dll
+C:\Users\sushanta.senapati\Desktop\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.deps.json
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.AssemblyReference.cache
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfoInputs.cache
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfo.cs
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.sourcelink.json
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.deps.json
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.AssemblyReference.cache
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfoInputs.cache
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfo.cs
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.CoreCompileInputs.cache
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.deps.json
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.AssemblyReference.cache
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfoInputs.cache
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfo.cs
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.CoreCompileInputs.cache
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\testcode\patholab\Patholabrotory\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.pdb

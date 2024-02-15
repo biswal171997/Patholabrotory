@@ -1,0 +1,280 @@
+2024-02-14 21:11:34.758 +05:30 [INF] Login Started
+2024-02-14 21:11:46.053 +05:30 [INF] Login Post Started
+2024-02-14 21:11:46.053 +05:30 [INF] Login Post Started
+2024-02-14 21:23:12.152 +05:30 [INF] PathoLabBill Started
+2024-02-14 21:23:12.906 +05:30 [INF] PathoLabBill Started
+2024-02-14 21:23:20.487 +05:30 [INF] View PathoLab Collection 
+2024-02-14 21:23:20.678 +05:30 [INF] View PathoLab Collection 
+2024-02-14 21:23:24.725 +05:30 [INF]  Print Bill
+2024-02-14 21:23:24.887 +05:30 [INF]  Binding Test
+2024-02-14 21:23:24.887 +05:30 [INF]  Print Patho Bill
+2024-02-14 21:23:26.845 +05:30 [INF]  Print Bill
+2024-02-14 21:23:53.139 +05:30 [INF] View PathoLab Collection 
+2024-02-14 21:25:45.488 +05:30 [INF] View Collection
+2024-02-14 21:25:45.788 +05:30 [INF] View Collection
+2024-02-14 21:25:51.762 +05:30 [INF] PathoLabBill Started
+2024-02-14 21:25:52.036 +05:30 [INF] PathoLabBill Started
+2024-02-14 21:25:53.814 +05:30 [INF] View PathoLab Collection 
+2024-02-14 21:25:53.987 +05:30 [INF] View PathoLab Collection 
+2024-02-14 21:26:05.808 +05:30 [INF]  Print Bill
+2024-02-14 21:26:05.958 +05:30 [INF]  Binding Test
+2024-02-14 21:26:05.958 +05:30 [INF]  Print Patho Bill
+2024-02-14 21:26:08.960 +05:30 [INF]  Print Bill
+2024-02-14 21:26:13.664 +05:30 [INF] View Collection
+2024-02-14 21:26:13.821 +05:30 [INF] View Collection
+2024-02-14 21:26:16.550 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 21:26:16.726 +05:30 [INF]  Binding Test Config
+2024-02-14 21:26:16.726 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-14 21:26:16.758 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 21:26:25.566 +05:30 [INF] Patho Report Collection For Print 
+2024-02-14 21:26:25.760 +05:30 [INF] Patho Report Collection For Print 
+2024-02-14 21:26:27.777 +05:30 [INF]  Print Report
+2024-02-14 21:26:28.046 +05:30 [INF]  Print Report
+2024-02-14 21:26:33.860 +05:30 [INF] View Collection
+2024-02-14 21:26:34.013 +05:30 [INF] View Collection
+2024-02-14 21:26:38.258 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 21:26:38.380 +05:30 [INF]  Binding Test Config
+2024-02-14 21:26:38.381 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-14 21:26:38.414 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 21:26:41.176 +05:30 [INF] Patho Report Collection For Print 
+2024-02-14 21:26:41.318 +05:30 [INF] Patho Report Collection For Print 
+2024-02-14 21:26:48.324 +05:30 [INF] View Collection
+2024-02-14 21:26:48.495 +05:30 [INF] View Collection
+2024-02-14 22:36:00.112 +05:30 [INF] Login Started
+2024-02-14 22:38:42.712 +05:30 [INF] Login Post Started
+2024-02-14 22:39:05.049 +05:30 [INF] Login Post Started
+2024-02-14 22:41:46.374 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:41:46.694 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:41:48.598 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:41:48.766 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:41:53.002 +05:30 [INF]  Print Bill
+2024-02-14 22:41:53.141 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:41:53.151 +05:30 [INF]  Binding Test
+2024-02-14 22:41:55.648 +05:30 [INF]  Print Bill
+2024-02-14 22:42:31.107 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:42:31.396 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:42:44.475 +05:30 [INF] Auto Complete
+2024-02-14 22:42:44.858 +05:30 [INF] Auto Complete
+2024-02-14 22:42:45.985 +05:30 [INF]  Get Price By TestId
+2024-02-14 22:42:55.454 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:42:55.614 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:43:04.907 +05:30 [INF]  Collect Sample  
+2024-02-14 22:43:05.112 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-14 22:43:05.113 +05:30 [INF]  Binding Test
+2024-02-14 22:43:05.147 +05:30 [INF]  Collect Sample  
+2024-02-14 22:43:15.952 +05:30 [INF] View Collection
+2024-02-14 22:43:16.162 +05:30 [INF] View Collection
+2024-02-14 22:43:21.882 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 22:43:22.017 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-14 22:43:22.020 +05:30 [INF]  Binding Test Config
+2024-02-14 22:43:22.049 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 22:43:27.377 +05:30 [INF] Patho Report Collection For Print 
+2024-02-14 22:43:27.535 +05:30 [INF] Patho Report Collection For Print 
+2024-02-14 22:43:29.274 +05:30 [INF]  Print Report
+2024-02-14 22:43:29.471 +05:30 [INF]  Print Report
+2024-02-14 22:43:55.099 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:43:55.383 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:43:57.117 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:43:57.263 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:44:01.180 +05:30 [INF]  Print Bill
+2024-02-14 22:44:01.294 +05:30 [INF]  Binding Test
+2024-02-14 22:44:01.294 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:44:03.342 +05:30 [INF]  Print Bill
+2024-02-14 22:44:12.803 +05:30 [INF] View Collection
+2024-02-14 22:44:12.997 +05:30 [INF] View Collection
+2024-02-14 22:44:25.555 +05:30 [INF] View Collection
+2024-02-14 22:44:25.754 +05:30 [INF] View Collection
+2024-02-14 22:44:27.355 +05:30 [INF]  Collect Sample  
+2024-02-14 22:44:27.501 +05:30 [INF]  Collect Sample  
+2024-02-14 22:44:29.338 +05:30 [INF] View Collection
+2024-02-14 22:44:29.465 +05:30 [INF] View Collection
+2024-02-14 22:44:34.981 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 22:44:35.086 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-14 22:44:35.087 +05:30 [INF]  Binding Test Config
+2024-02-14 22:44:35.123 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 22:44:42.005 +05:30 [INF] View Collection
+2024-02-14 22:44:44.527 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 22:44:44.639 +05:30 [INF]  Binding Test Config
+2024-02-14 22:44:44.639 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-14 22:44:44.681 +05:30 [INF]  Views PathoLab Report  
+2024-02-14 22:51:56.532 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:51:56.828 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:52:03.546 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:52:03.684 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:52:15.669 +05:30 [INF]  Print Bill
+2024-02-14 22:52:15.781 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:52:15.782 +05:30 [INF]  Binding Test
+2024-02-14 22:52:18.325 +05:30 [INF]  Print Bill
+2024-02-14 22:52:29.107 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:52:29.312 +05:30 [INF] PathoLabBill Started
+2024-02-14 22:52:32.093 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:52:32.223 +05:30 [INF] View PathoLab Collection 
+2024-02-14 22:53:06.875 +05:30 [INF]  Print Bill
+2024-02-14 22:53:07.041 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:53:07.042 +05:30 [INF]  Binding Test
+2024-02-14 22:53:12.002 +05:30 [INF]  Print Bill
+2024-02-14 22:54:31.580 +05:30 [INF]  Print Bill
+2024-02-14 22:54:50.213 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:54:50.214 +05:30 [INF]  Binding Test
+2024-02-14 22:54:57.092 +05:30 [INF]  Print Bill
+2024-02-14 22:56:07.805 +05:30 [INF]  Print Bill
+2024-02-14 22:56:07.949 +05:30 [INF]  Binding Test
+2024-02-14 22:56:32.746 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:59:19.327 +05:30 [INF]  Print Bill
+2024-02-14 22:59:21.964 +05:30 [INF]  Print Bill
+2024-02-14 22:59:22.140 +05:30 [INF]  Binding Test
+2024-02-14 22:59:23.793 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:59:43.555 +05:30 [INF]  Print Bill
+2024-02-14 22:59:43.735 +05:30 [INF]  Print Bill
+2024-02-14 22:59:43.898 +05:30 [INF]  Binding Test
+2024-02-14 22:59:44.151 +05:30 [INF]  Print Patho Bill
+2024-02-14 22:59:47.001 +05:30 [INF]  Print Bill
+2024-02-14 23:00:02.015 +05:30 [INF]  Print Bill
+2024-02-14 23:00:05.489 +05:30 [INF]  Binding Test
+2024-02-14 23:00:06.166 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:00:12.401 +05:30 [INF]  Print Bill
+2024-02-14 23:01:45.579 +05:30 [INF]  Print Bill
+2024-02-14 23:01:45.807 +05:30 [INF]  Print Bill
+2024-02-14 23:01:58.320 +05:30 [INF]  Binding Test
+2024-02-14 23:02:00.684 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:02:00.880 +05:30 [INF]  Print Bill
+2024-02-14 23:02:09.816 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:02:10.007 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:02:11.565 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:02:11.712 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:03:12.257 +05:30 [INF]  Print Bill
+2024-02-14 23:03:12.429 +05:30 [INF]  Binding Test
+2024-02-14 23:03:12.511 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:03:12.707 +05:30 [INF]  Print Bill
+2024-02-14 23:03:25.692 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:04:32.837 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:15:51.642 +05:30 [INF] Login Started
+2024-02-14 23:16:00.987 +05:30 [INF] Login Post Started
+2024-02-14 23:16:00.987 +05:30 [INF] Login Post Started
+2024-02-14 23:16:05.536 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:16:05.874 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:16:11.182 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:16:14.410 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:16:25.396 +05:30 [INF]  Print Bill
+2024-02-14 23:16:25.568 +05:30 [INF]  Binding Test
+2024-02-14 23:16:33.924 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:17:57.726 +05:30 [INF]  Print Bill
+2024-02-14 23:18:17.945 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:18:20.296 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:22:19.065 +05:30 [INF] Login Started
+2024-02-14 23:22:28.577 +05:30 [INF] Login Post Started
+2024-02-14 23:22:37.461 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:22:37.740 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:22:41.215 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:22:44.177 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:22:53.934 +05:30 [INF]  Print Bill
+2024-02-14 23:22:57.596 +05:30 [INF]  Binding Test
+2024-02-14 23:23:08.038 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:23:35.909 +05:30 [INF]  Print Bill
+2024-02-14 23:32:49.452 +05:30 [INF] Login Started
+2024-02-14 23:32:58.052 +05:30 [INF] Login Post Started
+2024-02-14 23:33:03.799 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:33:04.071 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:33:07.775 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:33:10.447 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:33:17.710 +05:30 [INF]  Print Bill
+2024-02-14 23:33:17.866 +05:30 [INF]  Binding Test
+2024-02-14 23:33:19.871 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:33:28.910 +05:30 [INF] Get Hospital Details
+2024-02-14 23:33:30.840 +05:30 [INF]  Print Bill
+2024-02-14 23:36:16.087 +05:30 [INF] Login Started
+2024-02-14 23:36:28.253 +05:30 [INF] Login Post Started
+2024-02-14 23:36:32.029 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:36:32.306 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:36:36.130 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:36:38.338 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:36:46.036 +05:30 [INF]  Print Bill
+2024-02-14 23:36:48.245 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:36:48.594 +05:30 [INF]  Binding Test
+2024-02-14 23:36:55.048 +05:30 [INF]  Print Bill
+2024-02-14 23:37:25.742 +05:30 [INF] Login Started
+2024-02-14 23:37:36.584 +05:30 [INF] Login Post Started
+2024-02-14 23:37:41.018 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:37:41.297 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:37:45.376 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:37:48.580 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:38:02.365 +05:30 [INF]  Print Bill
+2024-02-14 23:38:02.554 +05:30 [INF]  Binding Test
+2024-02-14 23:38:04.216 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:38:07.069 +05:30 [INF] Get Hospital Details
+2024-02-14 23:38:09.132 +05:30 [INF]  Print Bill
+2024-02-14 23:38:33.937 +05:30 [INF]  Print Bill
+2024-02-14 23:38:40.391 +05:30 [INF]  Binding Test
+2024-02-14 23:38:43.970 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:39:15.159 +05:30 [INF] Get Hospital Details
+2024-02-14 23:39:17.049 +05:30 [INF]  Print Bill
+2024-02-14 23:44:44.470 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:44:44.767 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:44:51.357 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:44:51.555 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:45:00.088 +05:30 [INF]  Print Bill
+2024-02-14 23:45:00.244 +05:30 [INF]  Binding Test
+2024-02-14 23:45:01.513 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:46:08.201 +05:30 [INF] Login Started
+2024-02-14 23:46:21.883 +05:30 [INF] Login Post Started
+2024-02-14 23:46:21.883 +05:30 [INF] Login Post Started
+2024-02-14 23:46:32.755 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:46:33.057 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:46:34.942 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:46:35.108 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:46:43.221 +05:30 [INF]  Print Bill
+2024-02-14 23:46:43.381 +05:30 [INF]  Binding Test
+2024-02-14 23:46:43.447 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:46:50.258 +05:30 [INF]  Print Bill
+2024-02-14 23:47:09.166 +05:30 [INF]  Print Bill
+2024-02-14 23:47:09.312 +05:30 [INF]  Binding Test
+2024-02-14 23:47:17.148 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:47:30.921 +05:30 [INF]  Print Bill
+2024-02-14 23:47:37.823 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:47:38.043 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:47:44.702 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:47:44.882 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:47:47.498 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:47:47.637 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:48:01.302 +05:30 [INF]  Print Bill
+2024-02-14 23:48:02.679 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:48:05.529 +05:30 [INF]  Print Bill
+2024-02-14 23:48:05.530 +05:30 [INF]  Binding Test
+2024-02-14 23:49:17.623 +05:30 [INF] Login Started
+2024-02-14 23:49:33.125 +05:30 [INF] Login Post Started
+2024-02-14 23:49:33.125 +05:30 [INF] Login Post Started
+2024-02-14 23:49:37.951 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:49:38.236 +05:30 [INF] PathoLabBill Started
+2024-02-14 23:49:40.096 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:49:40.278 +05:30 [INF] View PathoLab Collection 
+2024-02-14 23:49:50.018 +05:30 [INF]  Print Bill
+2024-02-14 23:49:50.168 +05:30 [INF]  Binding Test
+2024-02-14 23:49:50.247 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:49:53.153 +05:30 [INF] Get Hospital Details
+2024-02-14 23:49:55.811 +05:30 [INF]  Print Bill
+2024-02-14 23:50:51.370 +05:30 [INF]  Print Bill
+2024-02-14 23:50:51.511 +05:30 [INF]  Binding Test
+2024-02-14 23:50:51.511 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:50:54.529 +05:30 [INF]  Print Bill
+2024-02-14 23:51:03.800 +05:30 [INF]  Print Bill
+2024-02-14 23:51:03.968 +05:30 [INF]  Binding Test
+2024-02-14 23:51:03.969 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:51:06.673 +05:30 [INF] Get Hospital Details
+2024-02-14 23:51:06.677 +05:30 [INF]  Print Bill
+2024-02-14 23:51:15.198 +05:30 [INF]  Print Bill
+2024-02-14 23:51:15.322 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:51:15.321 +05:30 [INF]  Binding Test
+2024-02-14 23:51:18.681 +05:30 [INF] Get Hospital Details
+2024-02-14 23:51:18.689 +05:30 [INF]  Print Bill
+2024-02-14 23:51:24.081 +05:30 [INF]  Print Bill
+2024-02-14 23:51:24.200 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:51:24.201 +05:30 [INF]  Binding Test
+2024-02-14 23:51:27.323 +05:30 [INF]  Print Bill
+2024-02-14 23:52:24.757 +05:30 [INF]  Print Bill
+2024-02-14 23:52:24.901 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:52:24.901 +05:30 [INF]  Binding Test
+2024-02-14 23:52:27.840 +05:30 [INF]  Print Bill
+2024-02-14 23:52:48.531 +05:30 [INF]  Print Bill
+2024-02-14 23:52:48.679 +05:30 [INF]  Print Patho Bill
+2024-02-14 23:52:48.680 +05:30 [INF]  Binding Test
+2024-02-14 23:52:51.057 +05:30 [INF]  Print Bill

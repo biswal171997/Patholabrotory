@@ -1,0 +1,29 @@
+2024-01-24 09:58:17.647 +05:30 [INF] Login Started
+2024-01-24 10:29:40.137 +05:30 [INF] Login Started
+2024-01-24 10:29:46.919 +05:30 [INF] Login Post Started
+2024-01-24 10:29:59.952 +05:30 [INF] Login Post Started
+2024-01-24 10:30:00.710 +05:30 [ERR] String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at Microsoft.AspNetCore.Http.SessionExtensions.SetString(ISession session, String key, String value)
+   at PathoLab.Web.Controllers.AccountController.SetSession(User x) in D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Web\Controllers\AccountController.cs:line 92
+   at PathoLab.Web.Controllers.AccountController.Login(String UserName, String Password) in D:\testcode\patholab\updatedPatholab\Patholab\Patholab\lab - Copy\PathoLAb\PathoLab.Web\Controllers\AccountController.cs:line 67
+2024-01-24 10:32:08.721 +05:30 [INF] Login Started
+2024-01-24 10:32:37.123 +05:30 [INF] Login Post Started
+2024-01-24 10:51:27.287 +05:30 [INF] Login Started
+2024-01-24 10:52:08.460 +05:30 [INF] Login Started
+2024-01-24 10:52:58.425 +05:30 [INF] Login Started
+2024-01-24 10:53:41.260 +05:30 [INF] Login Post Started
+2024-01-24 10:53:41.260 +05:30 [INF] Login Post Started
+2024-01-24 11:35:59.373 +05:30 [INF] Login Started
+2024-01-24 11:36:08.712 +05:30 [INF] Login Post Started
+2024-01-24 11:37:34.593 +05:30 [INF] PathoLabBill Started
+2024-01-24 11:37:35.485 +05:30 [INF] PathoLabBill Started
+2024-01-24 11:37:53.505 +05:30 [INF] View PathoLab Collection 
+2024-01-24 11:37:53.655 +05:30 [INF] View PathoLab Collection 
+2024-01-24 11:38:03.460 +05:30 [INF]  Collect Sample  
+2024-01-24 11:38:03.611 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-01-24 11:38:03.611 +05:30 [INF]  Binding Test
+2024-01-24 11:38:03.622 +05:30 [INF]  Collect Sample  
+2024-01-24 11:38:13.181 +05:30 [INF] View Collection
+2024-01-24 11:38:13.302 +05:30 [INF] View Collection
+2024-01-24 11:38:54.485 +05:30 [INF] Login Started

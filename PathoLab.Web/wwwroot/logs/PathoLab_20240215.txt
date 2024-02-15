@@ -1,0 +1,39 @@
+2024-02-15 10:32:26.886 +05:30 [INF] Login Started
+2024-02-15 10:32:33.150 +05:30 [INF] Login Post Started
+2024-02-15 10:32:33.150 +05:30 [INF] Login Post Started
+2024-02-15 10:32:37.450 +05:30 [INF] PathoLabBill Started
+2024-02-15 10:32:37.617 +05:30 [INF] PathoLabBill Started
+2024-02-15 10:32:44.838 +05:30 [INF] View PathoLab Collection 
+2024-02-15 10:32:44.941 +05:30 [INF] View PathoLab Collection 
+2024-02-15 10:32:51.741 +05:30 [INF]  Print Bill
+2024-02-15 10:32:51.886 +05:30 [INF]  Print Patho Bill
+2024-02-15 10:32:51.886 +05:30 [INF]  Binding Test
+2024-02-15 10:32:53.410 +05:30 [INF]  Print Bill
+2024-02-15 10:32:56.438 +05:30 [INF]  Print Bill
+2024-02-15 10:32:56.519 +05:30 [INF]  Print Patho Bill
+2024-02-15 10:32:56.519 +05:30 [INF]  Binding Test
+2024-02-15 10:33:03.989 +05:30 [INF] Get Hospital Details
+2024-02-15 10:33:04.002 +05:30 [INF]  Print Bill
+2024-02-15 10:34:47.201 +05:30 [INF]  Print Bill
+2024-02-15 10:34:47.281 +05:30 [INF]  Print Patho Bill
+2024-02-15 10:34:47.281 +05:30 [INF]  Binding Test
+2024-02-15 10:34:48.990 +05:30 [INF]  Print Bill
+2024-02-15 10:35:02.050 +05:30 [INF]  Print Bill
+2024-02-15 10:35:02.140 +05:30 [INF]  Print Patho Bill
+2024-02-15 10:35:02.140 +05:30 [INF]  Binding Test
+2024-02-15 10:35:02.147 +05:30 [INF]  Print Bill
+2024-02-15 10:35:03.761 +05:30 [INF] Get Hospital Details
+2024-02-15 10:35:08.902 +05:30 [INF]  Print Bill
+2024-02-15 10:35:08.966 +05:30 [INF]  Print Patho Bill
+2024-02-15 10:35:08.966 +05:30 [INF]  Binding Test
+2024-02-15 10:35:17.034 +05:30 [INF] Get Hospital Details
+2024-02-15 10:35:17.040 +05:30 [INF]  Print Bill
+2024-02-15 10:38:08.050 +05:30 [INF]  Print Bill
+2024-02-15 10:38:08.148 +05:30 [INF]  Binding Test
+2024-02-15 10:38:08.148 +05:30 [INF]  Print Patho Bill
+2024-02-15 10:38:09.525 +05:30 [INF]  Print Bill
+2024-02-15 10:41:08.386 +05:30 [INF] PathoLabBill Started
+2024-02-15 10:41:08.525 +05:30 [INF] PathoLabBill Started
+2024-02-15 15:49:43.504 +05:30 [INF] Login Started
+2024-02-15 15:49:52.221 +05:30 [INF] Login Post Started
+2024-02-15 15:49:52.221 +05:30 [INF] Login Post Started

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7zJ6bAF8Nxjryg6J27qOs3Zj5puxTXocPcjYHuBF52B/f7tgKShguHYMNao4fXhIOtuYvapmhVUzsAHLMz8Qg==",
+  "success": true,
+  "projectFilePath": "D:\\testcode\\patholab\\Patholabrotory\\PathoLab.Domain\\PathoLab.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\manoj.biswal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

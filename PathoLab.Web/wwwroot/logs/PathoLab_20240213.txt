@@ -1,0 +1,42 @@
+2024-02-13 14:13:49.998 +05:30 [INF] Login Started
+2024-02-13 14:14:01.130 +05:30 [INF] Login Post Started
+2024-02-13 14:14:01.130 +05:30 [INF] Login Post Started
+2024-02-13 14:26:02.939 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:26:03.254 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:26:20.049 +05:30 [INF]  Get Price By TestId
+2024-02-13 14:26:28.288 +05:30 [INF]  Get Price By TestId
+2024-02-13 14:26:28.377 +05:30 [INF]  Get Price By TestId
+2024-02-13 14:26:28.439 +05:30 [INF] View PathoLab Collection 
+2024-02-13 14:26:28.620 +05:30 [INF] View PathoLab Collection 
+2024-02-13 14:26:33.907 +05:30 [INF]  Collect Sample  
+2024-02-13 14:26:34.047 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-13 14:26:34.047 +05:30 [INF]  Binding Test
+2024-02-13 14:26:34.083 +05:30 [INF]  Collect Sample  
+2024-02-13 14:26:44.526 +05:30 [INF] View Collection
+2024-02-13 14:26:44.694 +05:30 [INF] View Collection
+2024-02-13 14:26:48.209 +05:30 [INF]  Views PathoLab Report  
+2024-02-13 14:26:48.328 +05:30 [INF]  Get Patient Details By Patho Bill Id
+2024-02-13 14:26:48.331 +05:30 [INF]  Binding Test Config
+2024-02-13 14:26:48.357 +05:30 [INF]  Views PathoLab Report  
+2024-02-13 14:27:07.235 +05:30 [INF] Patho Report Collection For Print 
+2024-02-13 14:27:07.401 +05:30 [INF] Patho Report Collection For Print 
+2024-02-13 14:27:25.367 +05:30 [INF]  Print Report
+2024-02-13 14:27:25.614 +05:30 [INF]  Print Report
+2024-02-13 14:27:46.533 +05:30 [INF]  Print Report
+2024-02-13 14:27:46.761 +05:30 [INF]  Print Report
+2024-02-13 14:27:56.255 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:27:56.485 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:27:58.793 +05:30 [INF] View PathoLab Collection 
+2024-02-13 14:27:58.943 +05:30 [INF] View PathoLab Collection 
+2024-02-13 14:28:05.002 +05:30 [INF]  Print Bill
+2024-02-13 14:28:05.137 +05:30 [INF]  Binding Test
+2024-02-13 14:28:05.139 +05:30 [INF]  Print Patho Bill
+2024-02-13 14:28:07.866 +05:30 [INF]  Print Bill
+2024-02-13 14:28:24.836 +05:30 [INF] Login Started
+2024-02-13 14:31:55.809 +05:30 [INF] Login Post Started
+2024-02-13 14:47:48.124 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:47:48.340 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:48:01.445 +05:30 [INF] View PathoLab Collection 
+2024-02-13 14:48:01.636 +05:30 [INF] View PathoLab Collection 
+2024-02-13 14:48:04.871 +05:30 [INF] PathoLabBill Started
+2024-02-13 14:48:05.041 +05:30 [INF] PathoLabBill Started
